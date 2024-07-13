@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\projects for learning csharp\\GoogleMock\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82D6C870-A7CE-4C33-83A1-31B39DB5DBB0}|GoogleMock.csproj|c:\\projects for learning csharp\\googlemock\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82D6C870-A7CE-4C33-83A1-31B39DB5DBB0}|GoogleMock.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D6C870-A7CE-4C33-83A1-31B39DB5DBB0}|GoogleMock.csproj|c:\\projects for learning csharp\\googlemock\\wwwroot\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{82D6C870-A7CE-4C33-83A1-31B39DB5DBB0}|GoogleMock.csproj|solutionrelative:wwwroot\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\projects for learning csharp\\GoogleMock\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\projects for learning csharp\\GoogleMock\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T07:11:29.62Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.css",
+              "DocumentMoniker": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\css\\Index.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\Index.css",
+              "ToolTip": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\css\\Index.css",
+              "RelativeToolTip": "wwwroot\\css\\Index.css",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAFMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-09T02:45:14.788Z",
+              "IsPinned": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

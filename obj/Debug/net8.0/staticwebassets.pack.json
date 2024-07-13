@@ -1,0 +1,297 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GoogleMock.bundle.scp.css",
+      "PackagePath": "staticwebassets\\GoogleMock.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\Google_Lens_Icon.svg.png",
+      "PackagePath": "staticwebassets\\NewFolder\\Google_Lens_Icon.svg.png"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\download.png",
+      "PackagePath": "staticwebassets\\NewFolder\\download.png"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\googlelogo_color_272x92dp.png",
+      "PackagePath": "staticwebassets\\NewFolder\\googlelogo_color_272x92dp.png"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\images.png",
+      "PackagePath": "staticwebassets\\NewFolder\\images.png"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\keyboard.png",
+      "PackagePath": "staticwebassets\\NewFolder\\keyboard.png"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\NewFolder\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\NewFolder\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\NewFolder\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\NewFolder\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\NewFolder\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\NewFolder\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\NewFolder\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\NewFolder\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\NewFolder\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\NewFolder\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\NewFolder\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\NewFolder\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\NewFolder\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\NewFolder\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\NewFolder\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\NewFolder\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\NewFolder\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\NewFolder\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\NewFolder\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\NewFolder\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\NewFolder\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\NewFolder\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\NewFolder\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\NewFolder\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\NewFolder\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\NewFolder\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\mike.png",
+      "PackagePath": "staticwebassets\\NewFolder\\mike.png"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\NewFolder\\show-apps-button.png",
+      "PackagePath": "staticwebassets\\NewFolder\\show-apps-button.png"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\css\\Index.css",
+      "PackagePath": "staticwebassets\\css\\Index.css"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\projects for learning csharp\\GoogleMock\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GoogleMock.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.GoogleMock.props",
+      "PackagePath": "build\\GoogleMock.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.GoogleMock.props",
+      "PackagePath": "buildMultiTargeting\\GoogleMock.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.GoogleMock.props",
+      "PackagePath": "buildTransitive\\GoogleMock.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
